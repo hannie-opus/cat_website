@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  color: purple;
+  font-size: 100px;
+  text-decoration: underline;
+}
+h2 {
+  color: brown;
+}
+a {
+  color: blue;
+  font-size: 35x;
+  text-decoration: none;
+}
+p {
+  color: yellow;
+}
+ul {
+  color: aqua;
+}
+img {
+  width: 300px;
+  border-radius: 50opx;
+}
+
+.cat_section {
+  border: 5px solid blue;
+  display: ;
+  justify-content: center;
+  align-items: center;
+  gap: 0px;
+}
+.destiny {
+  border: 2px solid rebeccapurple;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 60px;
+}
+.mine {
+  border: 5px solid blue;
+
+  display: flex;
+  justify-content: center;
+  gap: 55px;
+}
